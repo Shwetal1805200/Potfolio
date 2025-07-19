@@ -6,14 +6,15 @@ export default function Footer() {
       <div className="max-w-4xl mx-auto px-4 text-center flex flex-col items-center">
         {/* Personal Tagline */}
         <p className="mb-4 max-w-xl text-[#FAEB92]">
-          I’m a passionate Full Stack Developer skilled in Java, Spring Boot, and React — always eager to build scalable solutions and grow with innovative teams.
-          Open to relocation and remote opportunities.
+          SHWETAL TALAVDEKAR 
         </p>
-
+        <p className="mb-4 max-w-xl text-[grey]">
+          FULL STACK DEVELOPER | JAVA | SPRING BOOT | REACT | MONGODB | SQL | HTML | CSS | JAVASCRIPT | GIT | GITHUB | NETLIFY |
+        </p>
         {/* Social Links */}
         <div className="flex flex-wrap justify-center gap-6 mb-4">
           <a
-            href="https://www.linkedin.com/in/yourprofile"  // Replace with your LinkedIn
+            href="https://www.linkedin.com/in/shwetal-talavdekar-a1354b139/"  // Replace with your LinkedIn
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#9929EA] transition"
@@ -21,7 +22,7 @@ export default function Footer() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/yourusername"  // Replace with your GitHub
+            href="https://github.com/Shwetal1805200"  // Replace with your GitHub
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#9929EA] transition"
@@ -29,7 +30,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://www.instagram.com/yourusername"  // Optional: Replace or remove
+            href="https://www.instagram.com/_shwet_18"  // Optional: Replace or remove
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#9929EA] transition"
@@ -37,7 +38,7 @@ export default function Footer() {
             Instagram
           </a>
           <a
-            href="https://www.facebook.com/yourusername"  // Optional: Replace or remove
+            href="https://www.facebook.com/shwet18"  // Optional: Replace or remove
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#9929EA] transition"

@@ -11,6 +11,7 @@ import TypingSpeedTester from './componants/TypingSpeedTester';
 import ContactForm from './componants/ContactForm';
 import UnitConverter from './componants/UnitConverter';
 import Gallery from './componants/Gallery';
+import Chatbot from './componants/Chatbot';
 
 export default function App() {
   return (
@@ -28,7 +29,8 @@ export default function App() {
         <Route path="/contact" element={<ContactForm />} />
         <Route path="/projects/unit-converter" element={<UnitConverter />} />
         <Route path="/projects/gallery" element={<Gallery />} />
-      </Routes>
+      </Routes> 
+      <Chatbot />
       <Footer />
     </div>
   );
